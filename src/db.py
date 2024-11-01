@@ -14,4 +14,3 @@ def init_db_connection():
 
 
 db, mongoClient = init_db_connection()
-
