@@ -3,6 +3,7 @@ __pycache__/
 input_data/
 output_data/
 data/
+.idea/
 src/preprocessing_test.py
 data_test/
 *.xlsx
